@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left"> Thales Fraga </h1>
 
-<!--
-**ditthales/ditthales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- - - - - - - - 
 
-Here are some ideas to get you started:
+<div display = "flex" style="margin-top: 20px;" width = "100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="coding"  height= "170rem" width="40%" style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditthales&theme=vue-dark&layout=compact&count_private=true&langs_count=20"/>
+
+<img  alt="github" height= "150rem" src="https://github-readme-stats.vercel.app/api?username=ditthales&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true"/>
+</div>
+
+
+<div>
+  <a href = "mailto: thalesvgfraga@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
