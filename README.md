@@ -10,7 +10,7 @@
 
 💬 Você pode me achar no <strong>[LinkedIn](https://www.linkedin.com/in/thalesvgfraga/)</strong> para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-💌 Ou pode mandar um e-mail para <strong>thalesvgfraga@gmail.com</strong> para falar diretamente comigo.
+💌 Ou pode mandar um e-mail para <strong>thalesvgfraga@outlook.com</strong> para falar diretamente comigo.
 
 ---
 
