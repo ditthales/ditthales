@@ -4,7 +4,7 @@
 
 <br>
 
-🏅 Vencedor do WWDC23 Swift Student Challenge com o app playground <strong>[In a Sheet of Paper](https://github.com/ditthales/InASheetOfPaper)</strong>🏅
+🏅 Vencedor do WWDC23 Swift Student Challenge com o app playground <strong><a href="https://github.com/ditthales/InASheetOfPaper" target="_blank">In a Sheet of Paper</a></strong>🏅
 
 🔭 Atualmente estou bolsista em inovação para desenvolvimento iOS na Apple Developer Academy - UFPE
 
