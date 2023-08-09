@@ -21,7 +21,7 @@
 **Scholarship recipient for iOS development innovation** \
 [**Apple Developer Academy - UFPE**](https://www.developeracademy.cin.ufpe.br) • Part-time \
 Languages & Technologies: `Swift`, `UIKit`, `SwiftUI`\
-Featured Projects: [witchie](https://github.com/ergdln/witchie), [In A Sheet of Paper](https://github.com/ditthales/InASheetOfPaper), [Naturia](https://github.com/miggelucas/Naturia)
+Featured Projects: [witchie](https://apps.apple.com/br/app/witchie/id6454296859), [In A Sheet of Paper](https://github.com/ditthales/InASheetOfPaper), [Naturia](https://github.com/miggelucas/Naturia)
 <br/>
 
 ---
