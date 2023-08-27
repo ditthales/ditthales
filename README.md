@@ -10,7 +10,7 @@
 
 💬 You can find more detailed descriptions of my work experience, education, and certifications on my <strong>[LinkedIn](https://www.linkedin.com/in/thalesvgfraga/)</strong> profile.
 
-💌 Alternatively, you can reach out to me directly via email at <strong>thalesvgfraga@outlook.com</strong>.
+💌 Alternatively, you can reach out to me directly via email at <strong>contato@thalesfraga.dev</strong>.
 
 ---
 
