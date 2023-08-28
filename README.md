@@ -32,6 +32,8 @@ Featured Projects: [witchie](https://apps.apple.com/br/app/witchie/id6454296859)
 <code><img height="32" src="https://i.imgur.com/a430Il7.png" alt="Xcode"/></code>
 <code><img height="32" src="https://i.imgur.com/qfYIDfa.png" alt="AppStore"/></code>
 <code><img height="32" src="https://i.imgur.com/gYq39O7.png" alt="Python"/></code>
+<code><img height="32" src="https://i.imgur.com/y6PyAwg.png" alt="TypeScript"/></code>
+<code><img height="32" src="https://i.imgur.com/L1Sk4EC.png" alt="React"/></code>
 <code><img height="32" src="https://i.imgur.com/RDy0BpG.png" alt="Git"/></code>
 <code><img height="32" src="https://i.imgur.com/DA8F2BV.png" alt="GitHub"/></code>
 
