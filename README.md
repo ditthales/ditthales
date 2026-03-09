@@ -6,8 +6,6 @@
 
 🏅 Winner of the WWDC23 Swift Student Challenge with the app playground <strong><a href="https://github.com/ditthales/InASheetOfPaper" target="_blank">In a Sheet of Paper</a></strong>🏅
 
-🔭 Currently, I am a **Mobile Developer** at [**Gaudium**](https://www.gaudium.com.br/) and a programming mentor at the [**Apple Developer Academy - UFPE**](https://www.developeracademy.cin.ufpe.br).
-
 📱 Co-creator and developer of the mobile game <strong><a href="https://apps.apple.com/br/app/witchie/id6454296859" target="_blank">Witchie</a></strong>, selected for Campus Mobile, a prestigious innovation event in São Paulo.  
 
 💬 You can find more detailed descriptions of my work experience, education, and certifications on my <strong>[LinkedIn](https://www.linkedin.com/in/thalesvgfraga/)</strong> profile.
